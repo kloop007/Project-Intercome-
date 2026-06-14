@@ -9,7 +9,7 @@ import { createClient } from '@supabase/supabase-client';
 // 🔗 CONFIG SUPABASE (FREE TIER)
 // ========================================================================
 // Ganti teks di dalam tanda kutip dengan URL dan Anon Key dari Supabase Anda
-const SUPABASE_URL = "https://your-project-id.supabase.co";
+const SUPABASE_URL = "https://rkqkxeqeexrwvsuwvvjj.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJrcWt4ZXFlZXhyd3ZzdXd2dmpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEzNzk2OTcsImV4cCI6MjA5Njk1NTY5N30.bSKl3c8JWXEnkU459eLb-1c2lV9CVc81xzZDZ267wXs";
 
 let supabase = null;
